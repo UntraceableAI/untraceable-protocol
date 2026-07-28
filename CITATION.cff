@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: The Untraceable Protocol
+message: >-
+  If you reference this specification, please cite it as below.
+type: standard
+abstract: >-
+  An open specification for auditable AI use on confidential data. It defines
+  the record an organization should be able to produce for any AI-assisted
+  deliverable — what was cloaked, submitted, returned and reviewed — with real
+  confidential values never appearing in the record.
+authors:
+  - name: Untraceable AI
+    website: "https://theuntraceable.ai"
+url: "https://theuntraceable.ai/protocol"
+repository-code: "https://github.com/UntraceableAI/untraceable-protocol"
+version: "1.0"
+date-released: "2026-07-13"
+keywords:
+  - confidential AI
+  - auditability
+  - HEOR
+  - compliance
+  - specification
